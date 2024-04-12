@@ -1,0 +1,26 @@
+img {
+ max-width: 300px;
+ max-height: 300px;
+ width: auto;
+ height: auto;
+}
+
+header {
+background-color: black;
+color: aliceblue;
+display: flex;
+justify-content: space-between;
+}
+.Conteudo{
+    align-items: center;
+    display: flex
+}
+.sobre{
+    margin-top: 150px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+body{
+    background-color: aqua;
+}
